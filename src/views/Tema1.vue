@@ -34,9 +34,11 @@
           figure.mb-5
             img.mb-3(src='@/assets/curso/temas/tema1/img_02.svg', alt='En la figura 1 se presentan las cinco etapas necesarias en toda operación de comercio exterior. Negociación: comprador y vendedor se ponen de acuerdo en diferentes aspectos como la fecha y lugar de entrega, el precio y los medios o formas de pago.  Contratación: se trata de documentar todas las condiciones de la contratación de forma clara y legal.  Documentación: en esta etapa se desarrollan operaciones propias del comercio exterior y que generan documentos y trámites como los certificados comerciales, de transporte, aduanas y otros. Transporte y seguro: se realiza el transporte de los productos o insumos hasta su destino, generalmente se cubre mediante un seguro. Fiscalidad: se refiere a las operaciones que están sometidas a gastos e impuestos, como el despacho de aduanas, aranceles y el IVA.').mx-auto.d-none.d-md-block
             img.mb-3(src='@/assets/curso/temas/tema1/img_02m.svg', alt='En la figura 1 se presentan las cinco etapas necesarias en toda operación de comercio exterior. Negociación: comprador y vendedor se ponen de acuerdo en diferentes aspectos como la fecha y lugar de entrega, el precio y los medios o formas de pago.  Contratación: se trata de documentar todas las condiciones de la contratación de forma clara y legal.  Documentación: en esta etapa se desarrollan operaciones propias del comercio exterior y que generan documentos y trámites como los certificados comerciales, de transporte, aduanas y otros. Transporte y seguro: se realiza el transporte de los productos o insumos hasta su destino, generalmente se cubre mediante un seguro. Fiscalidad: se refiere a las operaciones que están sometidas a gastos e impuestos, como el despacho de aduanas, aranceles y el IVA.').mx-auto.d-md-none.d-block
-            figcaption 
+            figcaption
               b Fuente: 
-              | Zona Franca Parque Central, 2023.
+              | Adoptado de Comercio exterior: una introducción al intercambio de bienes y servicios a nivel global. 
+              a(href="https://zonafrancapc.co/comercio-exterior-una-introduccion-al-intercambio-de-bienes-y-servicios-a-nivel-global/" target="_blank") https://zonafrancapc.co/comercio-exterior-una-introduccion-al-intercambio-de-bienes-y-servicios-a-nivel-global/
+              | , por Zona Franca Parque Central, 2023.
 
           .tarjeta.p-3.color-acento-contenido-10
             .row.justify-content-around.align-items-center

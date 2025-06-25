@@ -63,7 +63,7 @@
                 | SENA, 2025.
               thead
                 tr
-                  td Criterio
+                  td Criterio (según)
                   td Clasificación
                   td Ejemplo
               tr
@@ -72,7 +72,8 @@
                 td Alimentos, electrodomésticos, ropa
               tr
                 td Intangibles (servicios)
-                td Software
+                td 
+                  i Software
               tr
                 td(rowspan="2") Durabilidad
                 td Perecederos

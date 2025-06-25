@@ -166,7 +166,7 @@ export default {
         {
           id: 7,
           texto:
-            'El arancel "ad valorem" se calcula sobre el peso de la mercancía.',
+            'El arancel <em>"ad valorem"</em> se calcula sobre el peso de la mercancía.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

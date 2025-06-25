@@ -119,7 +119,7 @@
               | zonas francas.
             
         p 
-          b ¿Qué es el Arancel de Aduanas?
+          b ¿Qué es el Arancel de aduanas?
         .titulo-sexto.mb-4.color-acento-contenido
           h5 Figura 7. 
           span Arancel de aduanas  

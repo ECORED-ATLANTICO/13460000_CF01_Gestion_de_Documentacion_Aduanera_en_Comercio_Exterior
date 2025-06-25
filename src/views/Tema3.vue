@@ -103,13 +103,13 @@
       .col-lg-12.col-xl-9.mb-2
         .titulo-segundo.color-acento-contenido
           h2#t_3_1 3.1 Tipos de procedimientos
-        p De acuerdo con el Decreto 659 de 2024, los procedimientos aduaneros son "las actuaciones, trámites y controles establecidos por la normativa aduanera, que deben surtirse ante la Dirección de Impuestos y Aduanas Nacionales (DIAN) o ante los operadores de comercio exterior autorizados, para el manejo, despacho y control de las mercancías que ingresan o salen del territorio aduanero nacional."
+        p De acuerdo con el Decreto 659 de 2024, los procedimientos aduaneros son "las actuaciones, trámites y controles establecidos por la normativa aduanera, que deben surtirse ante la Dirección de Impuestos y Aduanas Nacionales (DIAN) o ante los operadores de comercio exterior autorizados, para el manejo, despacho y control de las mercancías que ingresan o salen del territorio aduanero nacional".
 
     .row.mb-5
       .col-12.col-lg-10.mx-auto
         .titulo-sexto.mb-4.color-acento-contenido
           h5 Figura 3. 
-          span Etapas del comercio exterior  
+          span Tipos de procedimientos aduaneros
         figure
           img(src="@/assets/curso/temas/tema3/img_05.svg", alt='•Principales Importación: introducción de mercancías al territorio aduanero nacional. Exportación: salida de mercancías del territorio aduanero nacional con destino al exterior. Tránsito aduanero: transporte de mercancías bajo control aduanero entre dos puntos de la misma aduana o entre diferentes aduanas. •Especiales Depósito aduanero: almacenamiento de mercancías extranjeras en lugares autorizados sin el pago de tributos. Reembarque: retorno de mercancías extranjeras que no han sido nacionalizadas. Cabotaje: transporte de mercancías entre puertos o puntos nacionales Transbordo: Transferencia de mercancías de un medio de transporte a otro bajo control aduanero. •Regímenes aduaneros especiales Zonas francas: áreas con beneficios tributarios y aduaneros especiales. Admisión temporal: ingreso de mercancías para ser reexportadas en un plazo determinado. Perfeccionamiento activo: importación temporal para transformación y posterior exportación. Perfeccionamiento pasivo: exportación temporal para elaboración y posterior reimportación.').mx-auto.d-none.d-md-block
           img(src="@/assets/curso/temas/tema3/img_05m.svg", alt='•Principales Importación: introducción de mercancías al territorio aduanero nacional. Exportación: salida de mercancías del territorio aduanero nacional con destino al exterior. Tránsito aduanero: transporte de mercancías bajo control aduanero entre dos puntos de la misma aduana o entre diferentes aduanas. •Especiales Depósito aduanero: almacenamiento de mercancías extranjeras en lugares autorizados sin el pago de tributos. Reembarque: retorno de mercancías extranjeras que no han sido nacionalizadas. Cabotaje: transporte de mercancías entre puertos o puntos nacionales Transbordo: Transferencia de mercancías de un medio de transporte a otro bajo control aduanero. •Regímenes aduaneros especiales Zonas francas: áreas con beneficios tributarios y aduaneros especiales. Admisión temporal: ingreso de mercancías para ser reexportadas en un plazo determinado. Perfeccionamiento activo: importación temporal para transformación y posterior exportación. Perfeccionamiento pasivo: exportación temporal para elaboración y posterior reimportación.').mx-auto.d-block.d-md-none
@@ -123,7 +123,7 @@
           .col-lg-12.col-xl-9.mb-2
             .titulo-segundo.color-acento-contenido
               h2#t_3_2 3.2 Tipos de reglamentación
-            p De acuerdo con el Decreto 659 de 2024, se puede definir la reglamentación aduanera como "las normas, requisitos, condiciones y trámites que deben seguir los importadores, exportadores, agentes de aduana y demás actores del comercio exterior para realizar operaciones legales ante la Dirección de Impuestos y Aduanas Nacionales (DIAN), garantizando el cumplimiento de las obligaciones tributarias, cambiarias y de control."
+            p De acuerdo con el Decreto 659 de 2024, se puede definir la reglamentación aduanera como "las normas, requisitos, condiciones y trámites que deben seguir los importadores, exportadores, agentes de aduana y demás actores del comercio exterior para realizar operaciones legales ante la Dirección de Impuestos y Aduanas Nacionales (DIAN), garantizando el cumplimiento de las obligaciones tributarias, cambiarias y de control".
           .col-md-4.col-lg-4.col-xl-3.col-6.mb-3
             figure
               img(src="@/assets/curso/temas/tema3/img_06.png", alt='Imagen Descriptiva').mx-auto.mb-4.mb-md-2
@@ -241,7 +241,9 @@
               td Certificado sanitario electrónico, permiso fitosanitario digital, autorizaciones sectoriales.
             tr
               td Tributarios
-              td Declaración de exportación en plataforma DIAN, solicitud de devolución de IVA (cuando aplique), aplicación del Drawback (sistema simplificado para PYMES).
+              td Declaración de exportación en plataforma DIAN, solicitud de devolución de IVA (cuando aplique), aplicación del 
+                i Drawback 
+                | (sistema simplificado para PYMES).
             tr
               td Control y seguridad
               td Certificados de calidad electrónicos, sistema de trazabilidad <em>blockchain</em> para café y banano, productos mineros y manufacturas de alto valor; muestras físicas (solo cuando lo exija autoridad competente).
