@@ -35,6 +35,7 @@
               b Fuente: 
               | SENA, 2025.
 
+          h3 ¿Cómo se clasifican los aranceles?
           .titulo-sexto.mb-4.color-acento-contenido
             h5 Figura 5. 
             span Clasificación de los aranceles
@@ -130,25 +131,14 @@
             b Fuente: 
             | SENA, 2025.
 
-        p.mb-4
-          b ¿Qué es la nomenclatura arancelaria?
-        
-    //- .bg_waves.bg_02.bg_top
-    //-   .col-12.col-lg-10.mx-auto
-    //-     .titulo-sexto.mb-4.color-acento-contenido
-    //-       h5 Figura 8. 
-    //-       span Nomenclatura arancelaria 
-    //-     figure.mb-5
-    //-       img(src="@/assets/curso/temas/tema4/img_10.png", alt='En la figura 8 se presenta la definición de nomenclatura arancelaria. •Es un sistema, con base en números y por ello se llama “nomenclatura”. •Se basa en un lenguaje cifrado originado en un método y unas reglas que se aplican de manera mundial a seis dígitos y permite un lenguaje común, independientemente de las costumbres, idioma, políticas comerciales, etc. En resumen, mediante el uso de una codificación, se clasifican y agrupan por categorías las mercancías objeto de comercio exterior.').mx-auto.d-none.d-md-block
-    //-       img(src="@/assets/curso/temas/tema4/img_10m.png", alt='En la figura 8 se presenta la definición de nomenclatura arancelaria. •Es un sistema, con base en números y por ello se llama “nomenclatura”. •Se basa en un lenguaje cifrado originado en un método y unas reglas que se aplican de manera mundial a seis dígitos y permite un lenguaje común, independientemente de las costumbres, idioma, políticas comerciales, etc. En resumen, mediante el uso de una codificación, se clasifican y agrupan por categorías las mercancías objeto de comercio exterior.').mx-auto.d-block.d-md-none
-    //-       figcaption 
-    //-         b Fuente: 
-    //-         | SENA, 2025
+        p.mb-5 En el caso colombiano se adopta a través de un decreto, expedido por el presidente de la República. La estructura del arancel está recomendada a nivel global por la Organización Mundial de Aduanas -OMA.
+
+        h3.mb-4 ¿Qué es la nomenclatura arancelaria?
             
     .col-12.col-lg-10.mx-auto
       .titulo-sexto.mb-4.color-acento-contenido
         h5 Figura 8. 
-        span Ejemplo de nomenclatura arancelaria 
+        span Nomenclatura arancelaria 
       figure.mb-5
         img(src="@/assets/curso/temas/tema4/img_11.svg", alt='En la figura 9 se presenta un ejemplo de nomenclatura arancelaria. No. Capitulo. Ubicación de la partida en el capítulo, PARTIDA, SUBPARTIDA, SISTEMA ARMONIZADO, NANDINA, ARANCEL COLOMBIANO').mx-auto.d-none.d-md-block
         img(src="@/assets/curso/temas/tema4/img_11m.svg", alt='En la figura 9 se presenta un ejemplo de nomenclatura arancelaria. No. Capitulo. Ubicación de la partida en el capítulo, PARTIDA, SUBPARTIDA, SISTEMA ARMONIZADO, NANDINA, ARANCEL COLOMBIANO').mx-auto.d-block.d-md-none

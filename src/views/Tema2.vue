@@ -118,7 +118,8 @@
    
     .row.align-items-center.mb-2(data-aos="fade-left")
       .col-12.col-md-12.col-lg-9.mb-2
-        p  En épocas anteriores, durante el desarrollo de las operaciones de comercio exterior surgían numerosos inconvenientes debido a la necesidad de cumplir con regulaciones específicas que eran pertinentes para ciertos países o áreas, pero que no eran aplicables en otros. Por lo anterior, la Organización Mundial de Aduanas (OMA) en aras de simplificar el comercio entre las naciones del mundo implementó el Sistema Armonizado de Designación y Codificación de Mercancías, más comúnmente conocido como Sistema Armonizado.
+        p  En épocas anteriores, durante el desarrollo de las operaciones de comercio exterior surgían numerosos inconvenientes debido a la necesidad de cumplir con regulaciones específicas que eran pertinentes para ciertos países o áreas, pero que no eran aplicables en otros. Por lo anterior, la Organización Mundial de Aduanas (OMA) en aras de simplificar el comercio entre las naciones del mundo, implementó el Sistema Armonizado de Designación y Codificación de Mercancías, más comúnmente conocido como Sistema Armonizado.
+        p Cabe resaltar que este sistema se puede implementar sin importar el tipo de transporte que sea utilizado para el intercambio de mercancías.
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .col-md-4.col-6
             figure
@@ -198,7 +199,7 @@
                   span Evita ambigüedades en mercancías similares.
                 li.d-flex.gap-2.align-items-center
                   i.fa.fa-check-circle
-                  span Facilita acuerdos comerciales
+                  span Facilita acuerdos comerciales.
 
  
     .row

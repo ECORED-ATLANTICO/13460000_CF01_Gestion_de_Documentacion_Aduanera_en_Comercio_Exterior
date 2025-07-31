@@ -68,8 +68,7 @@
         .col-lg-8.col-xl-8.mb-2
           p La operación de importación se refiere al proceso de comprar productos o servicios de otros países para usarlos, venderlos o transformarlos de manera interna. Para hacerlo, hay que cumplir con ciertas reglas, pagar impuestos como el IVA y entregar documentos requeridos, como facturas y certificados. En Colombia, esto se hace por medio de la DIAN y herramientas tecnológicas como la Ventanilla Única de Comercio Exterior (VUCE). Las empresas que importan deben tener en cuenta las normas para el comercio internacional, la tasa de cambio y las restricciones según el producto. 
           p Para lograr que las importaciones se desarrollen de manera eficiente, se requiere conocimiento especializado en comercio internacional, logística y legislación aduanera. De esta forma, se contribuye a la obtención de productos que no se producen en el país, el acceso a tecnologías, y/o adquirirlos a precios más competitivos.
-          p.mb-0 Lo anterior genera impactos económicos en los países, de distintas formas como, por ejemplo: salida de divisas, se complementa la oferta nacional, se puede afectar la balanza comercial y se estimula la competitividad empresarial.
-
+          p.mb-0 Lo anterior genera impactos económicos en los países, de distintas formas, como por ejemplo: salida de divisas, se complementa la oferta nacional, se puede afectar la balanza comercial y se estimula la competitividad empresarial.
 
 
       .titulo-segundo.color-acento-contenido
@@ -80,8 +79,10 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img_05.jpg')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p La exportación se refiere a la venta de productos o servicios hacia otros países. Para lograr que esta operación se lleve a cabo, hay que cumplir con la normativa local y del país al que se envían, como lo son los certificados de calidad, permisos sanitarios y documentos de transporte. En Colombia, los exportadores pueden aprovechar beneficios como el Plan Vallejo y el apoyo de ProColombia. Exportar genera importantes beneficios como el ingreso de divisas al país, fortalece la economía, fomenta la creación de empleos, promueve la innovación tecnológica y estimula a las empresas para que sean más competitivas. 
-
+          p La exportación se refiere a la venta de productos o servicios hacia otros países. Para lograr que esta operación se lleve a cabo, hay que cumplir con la normativa local y del país al que se envían, como lo son los certificados de calidad, permisos sanitarios y documentos de transporte. En Colombia, los exportadores pueden aprovechar beneficios como el Plan Vallejo y el apoyo de ProColombia. 
+            br
+            br
+            | Exportar genera importantes beneficios como el ingreso de divisas al país, fortalece la economía, fomenta la creación de empleos, promueve la innovación tecnológica y estimula a las empresas para que sean más competitivas. 
             br 
             br
             | Es importante tener en cuenta aspectos como la logística internacional, las normas de comercio internacional y el uso de medios de pago internacionales, como lo son las cartas de crédito. Lograr éxito en la exportación requiere una buena planificación, entender los mercados a los que se desea llegar y ajustarse a las normas internacionales.

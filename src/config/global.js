@@ -219,7 +219,7 @@ export default {
     {
       termino: 'Comercio exterior',
       significado:
-        'es el intercambio de bienes y servicios entre países que cuentan con economías abiertas, en el se requiere cumplir con trámites, procedimientos tributarios y normativa vigente.',
+        'es el intercambio de bienes y servicios entre países que cuentan con economías abiertas, en él se requiere cumplir con trámites, procedimientos tributarios y normativa vigente.',
     },
     {
       termino: 'DIAN',
@@ -243,7 +243,7 @@ export default {
     {
       termino: 'Importación',
       significado:
-        'se refiera al proceso de comprar productos o servicios de otros países para usarlos, venderlos o transformarlos de manera interna.',
+        'se refiere al proceso de comprar productos o servicios de otros países para usarlos, venderlos o transformarlos de manera interna.',
     },
     {
       termino: 'Mercancía',
@@ -334,8 +334,8 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de la línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -353,7 +353,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll',
+          nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -394,12 +394,12 @@ export default {
         },
         {
           nombre: 'Jonathan Adie Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

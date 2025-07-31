@@ -14,8 +14,7 @@
               :style="{'background': `url(${require('@/assets/curso/temas/tema3/img_01.png')}) right no-repeat`,'min-height':'100px','background-size':'cover'}"
             )
           .col-12.col-md-8.p-4
-            p.mb-0 Las mercancías son la base del comercio y la economía, abarcando desde productos básicos hasta servicios especializados. Su naturaleza y clasificación ayudan a entender su papel en el mercado, su regulación y su impacto en la cadena de producción y consumo.
-
+            p.mb-0 La normativa aduanera es el conjunto de normas que regulan cómo se debe manejar la mercancía bajo el control de la aduana. Esto incluye que el responsable de la mercancía (declarante) presente ante la aduana un formulario o documento que sirva como declaración aduanera. Esta presentación puede hacerse de forma directa o a través de una agencia de aduanas encargada de realizar el trámite.
     .row
       .col-12.col-lg-10.mx-auto.mb-4
         .p-4.color-acento-contenido-10.border-radius-4.bg01
@@ -130,7 +129,7 @@
 
         .titulo-sexto.mb-4.color-acento-contenido
           h5 Tabla 3. 
-          span Etapas del comercio exterior  
+          span Tipos de reglamentación aduanera
         
         .tabla-a.mb-5
           table
@@ -302,13 +301,13 @@
                 td Liquidación de tributos aduaneros
                 td Detalla aranceles, IVA e impuestos específicos. Tiene efectos legales en auditorías fiscales.
               tr
-                td Declaración cambiaria (formulario de cambio) DUA electrónica
+                td Declaración cambiaria (formulario de cambio)
                 td Obligatoria para operaciones ≥ USD 10,000 (Banco de la República).
 
 
               tr
                 td(rowspan="3") Electrónicos con validez legal
-                td Certificaciones y autorizaciones especiales
+                td DUA electrónica
                 td Equivalente legal a la versión física (Art. 5 del Decreto 659).
               tr
                 td Certificados digitales (DIAN)
@@ -326,7 +325,7 @@
                 td Emitida por la DIAN con efectos legales en beneficios tributarios.
 
               tr
-                td(rowspan="2") Declaraciones juradas
+                td(rowspan="2") Con implicaciones penales
                 td Declaraciones juradas
                 td Falsearlas puede acarrear sanciones penales (contrabando, lavado).
               tr
